@@ -106,6 +106,6 @@ header img:hover {
 
 footer {
     text-align: center;
-    padding: 60px;
-    
+    padding: 1px;
+    background-color: gray;
 }
