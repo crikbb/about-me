@@ -100,8 +100,18 @@ header img:hover {
     background-color: orange;
 }
 
+.tag-yellow:hover {
+    transform: scale(1.5);
+    transition: all .35s;
+}
+
 .tag-blue {
     background-color: #0499ff;
+}
+
+.tag-blue:hover {
+    transform: scale(1.5);
+    transition: all .35s;
 }
 
 footer {
